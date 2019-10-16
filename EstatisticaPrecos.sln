@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstatisticaPrecos", "EstatisticaPrecos\EstatisticaPrecos.csproj", "{7986AA1F-ABBD-4341-8AA3-C49823D5733D}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "EstatisticaPrecoDb", "EstatisticaPrecoDb\EstatisticaPrecoDb.sqlproj", "{C2349698-E9C8-4BA9-A3D2-04F28E3BB123}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7986AA1F-ABBD-4341-8AA3-C49823D5733D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7986AA1F-ABBD-4341-8AA3-C49823D5733D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7986AA1F-ABBD-4341-8AA3-C49823D5733D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7986AA1F-ABBD-4341-8AA3-C49823D5733D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2349698-E9C8-4BA9-A3D2-04F28E3BB123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2349698-E9C8-4BA9-A3D2-04F28E3BB123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2349698-E9C8-4BA9-A3D2-04F28E3BB123}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C2349698-E9C8-4BA9-A3D2-04F28E3BB123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2349698-E9C8-4BA9-A3D2-04F28E3BB123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2349698-E9C8-4BA9-A3D2-04F28E3BB123}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC8BB5EC-64B3-4D4E-B86B-3F76F66D0DB1}
+	EndGlobalSection
+EndGlobal
